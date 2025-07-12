@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../TrafficLight"
+		},
+		{
+			"name": "Blynk_Led",
+			"path": "../Blynk_Led"
+		},
+		{
+			"name": "Blynk_TrafficLight",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"cmath": "cpp"
+		}
+	}
+}
